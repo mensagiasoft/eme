@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  app:
+    image: data-management-eme:1.0.0
+    build:
+      context: .
+      dockerfile: src/main/docker/Dockerfile.native
+    container_name: data-management-eme
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      DB_URL: jdbc:postgresql://postgres-db:5432/appdb
+    networks:
+      - app-network
+networks:
+  app-network:
+    external: true

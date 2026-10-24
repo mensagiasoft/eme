@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "questionNumber": 57,
+    "examYear": "RM2017",
+    "questionText": "Mujer de 30 años, con un hijo vivo de 5 años, usuaria de DIU por 3 años que se lo retira por presentar cuadros de EPI a repetición, presencia de flujo vaginal y no presenta dismenorrea. No logra embarazarse desde hace dos años. ¿Cuál es la probable causa de la infertilidad?",
+    "alternatives": {
+      "A": "Anovulación crónica",
+      "B": "Cervicitis crónica",
+      "C": "Endometriosis",
+      "D": "Obstrucción tubárica",
+      "E": "Adenomiosis"
+    },
+    "correctAnswer": "D",
+    "explanation": "Es un caso de infertilidad secundaria: tuvo una gestación con anterioridad, pero no puede lograr una nueva gestación. La ausencia de dismenorrea aleja el diagnóstico de adenomiosis y endometriosis. No hay datos suficientes para plantear anovulación crónica. Una secuela importante de la EPI a repetición es la infertilidad por obstrucción tubárica.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 2,
+    "questionNumber": 58,
+    "examYear": "RM2018",
+    "questionText": "Paciente de 28 años, acude por dos años de intento reproductivo sin éxito. Antecedentes de múltiples parejas sexuales. Examen: sin alteraciones. Histerosalpingografía: obstrucción de trompas. ¿Cuál es la causa más probable de infertilidad?",
+    "alternatives": {
+      "A": "Hiperplasia endometrial",
+      "B": "Factor adherencial",
+      "C": "Malformaciones uterinas",
+      "D": "Miomatosis uterina",
+      "E": "Enfermedad pélvica inflamatoria"
+    },
+    "correctAnswer": "E",
+    "explanation": "La infertilidad en parejas menores de 35 años se considera cuando intentan lograr un embarazo durante un año sin conseguirlo. Entre los factores femeninos se encuentran el factor cervical, uterino, ovárico y tuboperitoneal. La obstrucción de ambas trompas orienta a un factor tubárico-peritoneal; puede deberse a enfermedad inflamatoria pélvica por infecciones como clamidia, gonococo o tuberculosis, que dejan secuelas. Otras causas menos frecuentes incluyen cirugía tubárica previa y endometriosis severa.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 3,
+    "questionNumber": 59,
+    "examYear": "RM2020",
+    "questionText": "¿Cuál es el factor asociado más frecuente de la infertilidad en el Perú?",
+    "alternatives": {
+      "A": "Ovárico",
+      "B": "Cervical",
+      "C": "Uterino",
+      "D": "Tubárico",
+      "E": "Masculino"
+    },
+    "correctAnswer": "D",
+    "explanation": "La infertilidad tiene factores dependientes del hombre y de la mujer. Respecto al factor femenino, el más frecuente es el factor tubárico, principalmente las adherencias y sinequias de las trompas uterinas. Entre sus causas están las infecciones, como la enfermedad pélvica inflamatoria. La explicación del documento queda cortada al final de la página.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 4,
+    "questionNumber": 60,
+    "examYear": "RM2021",
+    "questionText": "¿Cuál es el factor de riesgo más importante asociado a infertilidad?",
+    "alternatives": {
+      "A": "Tabaquismo",
+      "B": "Sobrepeso",
+      "C": "Infecciones",
+      "D": "Edad de la mujer",
+      "E": "Número de parejas"
+    },
+    "correctAnswer": "C",
+    "explanation": "La infertilidad se define como la incapacidad de quedar embarazada a pesar de tener relaciones sexuales frecuentes y sin protección durante al menos un año. Las infecciones son una causa importante de infertilidad: las infecciones genitales en la mujer pueden producir enfermedad inflamatoria pélvica y daños permanentes en las trompas de Falopio, el útero y los tejidos circundantes, siendo responsables del factor tuboperitoneal, que representa aproximadamente el 30 % de las causas de infertilidad.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 5,
+    "questionNumber": 61,
+    "examYear": "RM2015",
+    "questionText": "Adolescente de 16 años, que acude a consulta por presentar amenorrea primaria. Al examen físico: desarrollo de caracteres sexuales secundarios normales para su edad y presencia de tabique y vagina doble. ¿En qué otro aparato se espera encontrar malformación concomitante?",
+    "alternatives": {
+      "A": "Urinario",
+      "B": "Óseo-muscular",
+      "C": "Cardiovascular",
+      "D": "Respiratorio",
+      "E": "Digestivo"
+    },
+    "correctAnswer": "A",
+    "explanation": "Estamos ante un cuadro de amenorrea primaria con presencia de tabique vaginal. Cuando el tabique es longitudinal, se asocia con malformaciones urológicas; estas no se asocian del mismo modo si se trata de un tabique vaginal transversal.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 6,
+    "questionNumber": 62,
+    "examYear": "RM2014",
+    "questionText": "Adolescente de 13 años, ingresa a emergencia por retención urinaria, con historia de amenorrea primaria y dolor cíclico en hipogastrio. Examen: masa abdominal palpable. ¿Cuál es el diagnóstico más probable?",
+    "alternatives": {
+      "A": "Himen imperforado",
+      "B": "Duplicación de vagina",
+      "C": "Hipoplasia de vagina",
+      "D": "Quistes del conducto de Gartner",
+      "E": "Útero didelfo"
+    },
+    "correctAnswer": "A",
+    "explanation": "El himen imperforado se presenta aproximadamente en 1 de cada 2.000 mujeres. Los síntomas que origina en la pubertad son amenorrea primaria, dolor abdominal o pélvico, retención de orina o estreñimiento; al examen suele encontrarse una masa abdominal. La alternativa se interpreta como “himen imperforado” por concordancia con el cuadro clínico y la explicación.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 7,
+    "questionNumber": 63,
+    "examYear": "RM2016",
+    "questionText": "Paciente de 26 años, con amenorrea primaria, desarrollo mamario normal, con escaso vello púbico y axilar. Tiene informe de cariotipo XY. ¿Cuál es el diagnóstico?",
+    "alternatives": {
+      "A": "Insensibilidad a los andrógenos",
+      "B": "Septum vaginal transverso completo",
+      "C": "Aplasia cervical",
+      "D": "Síndrome de Turner",
+      "E": "Síndrome de Mayer-Rokitansky"
+    },
+    "correctAnswer": "A",
+    "explanation": "El desarrollo de caracteres sexuales secundarios está dado por el desarrollo mamario. El cariotipo XY descarta el septum vaginal transverso y la aplasia cervical como explicación principal. El síndrome de Turner corresponde a cariotipo XO y el síndrome de Mayer-Rokitansky se asocia con cariotipo XX y ausencia de útero. El cariotipo XY con fenotipo femenino y escaso vello púbico/axilar orienta a insensibilidad a los andrógenos.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 8,
+    "questionNumber": 64,
+    "examYear": "RM2018",
+    "questionText": "¿Cuál es el tipo de amenorrea en una mujer con diagnóstico de anorexia nerviosa?",
+    "alternatives": {
+      "A": "Hipotalámica",
+      "B": "Iatrogénica",
+      "C": "Ambiental",
+      "D": "Idiopática",
+      "E": "Autoinmunitaria"
+    },
+    "correctAnswer": "A",
+    "explanation": "En la anorexia nerviosa puede encontrarse hipogonadismo hipogonadotrófico: disminuyen las señales hipofisarias, la secreción de LH y FSH y, por consecuencia, los niveles de estradiol plasmático. Esto corresponde a amenorrea de origen hipotalámico.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 9,
+    "questionNumber": 65,
+    "examYear": "RM2022",
+    "questionText": "Mujer de 28 años, desde hace diez meses estuvo disminuyendo su flujo menstrual hasta encontrarse en amenorrea desde hace 4 meses. Examen: emaciada, útero de seis centímetros; anexos normales. Ecografía: útero de 6 cm; anexos normales. Se le indica estrógenos y progesterona por 10 días y luego de ello, la paciente no menstrúa. ¿Dónde se encuentra la falla?",
+    "alternatives": {
+      "A": "Tiroides",
+      "B": "Útero",
+      "C": "Ovario",
+      "D": "Hipotálamo",
+      "E": "Hipófisis"
+    },
+    "correctAnswer": "B",
+    "explanation": "Si una paciente no presenta respuesta (menstruación) luego de la sustitución hormonal, se puede descartar una falla en el eje hipotálamo-hipófiso-gonadal, por lo que se debe buscar otra causa, fundamentalmente uterina.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 10,
+    "questionNumber": 66,
+    "examYear": "RM2024",
+    "questionText": "Mujer de 25 años, corredora de maratón, acude por ausencia de menstruación desde hace 9 meses. Examen: PA 100/60 mmHg; IMC 17. Laboratorio: FSH y LH disminuidos. Ecografía: útero de 7 cm, endometrio 4 mm. ¿Cuál es la causa más probable de la amenorrea?",
+    "alternatives": {
+      "A": "Falla ovárica precoz",
+      "B": "Ejercicio físico",
+      "C": "Hipotiroidismo",
+      "D": "Síndrome de ovario poliquístico"
+    },
+    "correctAnswer": "B",
+    "explanation": "La paciente presenta amenorrea secundaria asociada a historia de ejercicio físico intenso, IMC bajo y FSH/LH disminuidas, lo que sugiere hipogonadismo hipogonadotrópico. La causa más probable es la amenorrea hipotalámica funcional secundaria al ejercicio excesivo. El estrés metabólico y físico suprime el eje hipotálamo-hipofisario y altera la secreción pulsátil de GnRH. Puede asociarse con desórdenes menstruales, baja densidad ósea y déficit energético.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 11,
+    "questionNumber": 67,
+    "examYear": "RM2017",
+    "questionText": "¿Cuál es el tratamiento inicial de la dismenorrea en las adolescentes?",
+    "alternatives": {
+      "A": "Anticonceptivos orales",
+      "B": "Esteroides sistémicos",
+      "C": "Antiinflamatorios no esteroideos",
+      "D": "Oxitócicos",
+      "E": "Antieméticos"
+    },
+    "correctAnswer": "C",
+    "explanation": "La dismenorrea es dolor asociado al ciclo menstrual. La dismenorrea primaria suele aparecer cerca de la menarquia y es funcional; la secundaria suele aparecer tiempo después y puede asociarse con patología estructural. En la dismenorrea primaria, el espasmo miometrial se relaciona con metabolitos del ácido araquidónico, por lo que los AINE son útiles y constituyen la primera elección.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  },
+  {
+    "id": 12,
+    "questionNumber": 68,
+    "examYear": "RM2018",
+    "questionText": "¿Cuál es la terapia inicial en adolescente con dismenorrea?",
+    "alternatives": {
+      "A": "Anticonceptivos",
+      "B": "Anticolinérgicos",
+      "C": "Corticoides",
+      "D": "AINEs",
+      "E": "Antihistamínicos"
+    },
+    "correctAnswer": "D",
+    "explanation": "El dolor con la menstruación se denomina dismenorrea. Puede ser primaria cuando no hay patología orgánica, también llamada funcional, y suele coincidir con el inicio de la menarquia. Se debe al espasmo miometrial por la producción de metabolitos derivados del ácido araquidónico, por lo que la terapia de primera elección son los AINE. La dismenorrea secundaria aparece años después de la menarquia, con antecedente de periodos sin molestias, y suele deberse a causas estructurales como endometriosis, pólipos, miomas o EPI; el tratamiento es tratar la causa subyacente.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-23T14:23:06.853171Z",
+    "updatedAt": "2026-10-23T14:23:06.853171Z"
+  }
+]

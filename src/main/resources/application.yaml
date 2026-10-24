@@ -1,0 +1,24 @@
+quarkus:
+  datasource:
+    db-kind: postgresql
+    username: ${DB_USERNAME:user}
+    password: ${DB_PASSWORD:password}
+    jdbc:
+      url: ${DB_URL:jdbc:postgresql://localhost:5432/appdb}
+
+  hibernate-orm:
+    schema-management:
+      strategy: validate
+    mapping:
+      format:
+        global: ignore
+    log:
+      sql: false
+
+  http:
+    root-path: /data-management-eme
+    port: ${HTTP_PORT:8081}
+    host: 0.0.0.0
+
+  jackson:
+    serialization-inclusion: non-null
